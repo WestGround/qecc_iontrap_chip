@@ -1,0 +1,8 @@
+q0 g p h q 
+q1 h q 
+q2 h q 
+q3 h q 
+q4 h q 
+q5 h q 
+q6 q h q 
+q7 p h q 

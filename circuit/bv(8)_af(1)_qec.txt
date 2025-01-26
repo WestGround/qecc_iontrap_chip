@@ -1,0 +1,33 @@
+8 1
+gpi2 0
+gpi2 0
+gpi 7
+gpi2 7
+ms 0 7
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 7
+ms 2 7
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 4
+gpi2 4
+gpi2 7
+ms 4 7
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 6
+gpi2 6
+gpi2 7
+ms 6 7
+gpi2 6
+gpi2 6
+gpi2 6
+gpi2 7
+gpi2 7
+gpi 7

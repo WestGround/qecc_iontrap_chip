@@ -1,0 +1,5 @@
+1
+No QEC (short chain); 0.9592520668906512
+No QEC (short chain); 1438
+No QEC (long chain); 0.9701359313649417
+No QEC (long chain); 1051

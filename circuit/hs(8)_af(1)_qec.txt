@@ -1,0 +1,854 @@
+8 1
+gpi 0
+gpi2 0
+rz 0 8
+gpi2 0
+rz 0 5
+rz 0 7
+rz 0 12
+gpi2 1
+rz 1 6
+rz 1 9
+rz 1 11
+gpi2 1
+rz 1 7
+rz 1 9
+gpi2 1
+ms 1 0
+gpi2 0
+rz 0 8
+rz 0 9
+rz 0 11
+rz 0 12
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 1
+rz 1 8
+rz 1 9
+rz 1 11
+rz 1 12
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+rz 1 8
+rz 1 9
+rz 1 11
+rz 1 12
+gpi2 1
+gpi2 1
+ms 1 0
+gpi2 0
+gpi2 0
+rz 0 8
+gpi2 0
+rz 0 5
+rz 0 7
+rz 0 12
+gpi2 1
+gpi2 1
+gpi 2
+gpi2 2
+rz 2 7
+rz 2 11
+rz 2 12
+gpi2 2
+rz 2 6
+rz 2 7
+rz 2 10
+rz 2 12
+gpi2 3
+rz 3 9
+rz 3 10
+rz 3 11
+rz 3 12
+gpi2 3
+rz 3 9
+rz 3 11
+gpi2 3
+ms 3 2
+gpi2 2
+rz 2 8
+rz 2 9
+rz 2 11
+rz 2 12
+gpi2 2
+gpi2 3
+gpi2 3
+gpi2 3
+rz 3 8
+rz 3 9
+rz 3 11
+rz 3 12
+gpi2 3
+ms 2 3
+gpi2 2
+gpi2 2
+gpi2 3
+gpi2 3
+rz 3 8
+rz 3 9
+rz 3 11
+rz 3 12
+gpi2 3
+gpi2 3
+ms 3 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+rz 1 8
+rz 1 9
+rz 1 11
+rz 1 12
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+rz 2 8
+rz 2 9
+rz 2 11
+rz 2 12
+gpi2 2
+ms 1 2
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+rz 2 8
+rz 2 9
+rz 2 11
+rz 2 12
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+rz 1 6
+rz 1 9
+rz 1 11
+gpi2 1
+rz 1 7
+rz 1 9
+gpi2 1
+ms 1 0
+gpi2 0
+rz 0 8
+rz 0 9
+rz 0 11
+rz 0 12
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 1
+rz 1 8
+rz 1 9
+rz 1 11
+rz 1 12
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+rz 1 8
+rz 1 9
+rz 1 11
+rz 1 12
+gpi2 1
+gpi2 1
+ms 1 0
+gpi2 0
+gpi2 0
+rz 0 8
+gpi2 0
+rz 0 5
+rz 0 7
+rz 0 12
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+rz 2 7
+rz 2 11
+rz 2 12
+gpi2 2
+rz 2 6
+rz 2 7
+rz 2 10
+rz 2 12
+gpi2 3
+gpi2 3
+gpi 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+gpi2 4
+rz 4 8
+rz 4 10
+rz 4 11
+rz 4 12
+gpi2 5
+rz 5 7
+rz 5 8
+rz 5 11
+gpi2 5
+rz 5 5
+rz 5 8
+rz 5 11
+rz 5 12
+gpi2 5
+ms 5 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+rz 4 12
+gpi2 4
+gpi2 5
+gpi2 5
+gpi2 5
+rz 5 8
+rz 5 9
+rz 5 11
+rz 5 12
+gpi2 5
+ms 4 5
+gpi2 4
+gpi2 4
+gpi2 5
+gpi2 5
+rz 5 8
+rz 5 9
+rz 5 11
+rz 5 12
+gpi2 5
+gpi2 5
+ms 5 4
+gpi2 4
+gpi2 4
+ms 4 3
+gpi2 3
+rz 3 8
+rz 3 9
+rz 3 11
+rz 3 12
+gpi2 3
+gpi2 4
+gpi2 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+rz 4 12
+gpi2 4
+ms 3 4
+gpi2 3
+gpi2 3
+gpi2 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+rz 4 12
+gpi2 4
+gpi2 4
+ms 4 3
+gpi2 3
+gpi2 3
+rz 3 9
+rz 3 10
+rz 3 11
+rz 3 12
+gpi2 3
+rz 3 9
+rz 3 11
+gpi2 3
+ms 3 2
+gpi2 2
+rz 2 8
+rz 2 9
+rz 2 11
+rz 2 12
+gpi2 2
+gpi2 3
+gpi2 3
+gpi2 3
+rz 3 8
+rz 3 9
+rz 3 11
+rz 3 12
+gpi2 3
+ms 2 3
+gpi2 2
+gpi2 2
+gpi2 3
+gpi2 3
+rz 3 8
+rz 3 9
+rz 3 11
+rz 3 12
+gpi2 3
+gpi2 3
+ms 3 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+rz 1 8
+rz 1 9
+rz 1 11
+rz 1 12
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+rz 2 8
+rz 2 9
+rz 2 11
+rz 2 12
+gpi2 2
+ms 1 2
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+rz 2 8
+rz 2 9
+rz 2 11
+rz 2 12
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+rz 1 6
+rz 1 9
+rz 1 11
+gpi2 1
+rz 1 7
+rz 1 9
+gpi2 1
+ms 1 0
+gpi2 0
+rz 0 8
+rz 0 9
+rz 0 11
+rz 0 12
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 1
+rz 1 8
+rz 1 9
+rz 1 11
+rz 1 12
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+rz 1 8
+rz 1 9
+rz 1 11
+rz 1 12
+gpi2 1
+gpi2 1
+ms 1 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+rz 2 7
+rz 2 11
+rz 2 12
+gpi2 2
+rz 2 6
+rz 2 7
+rz 2 10
+rz 2 12
+gpi2 3
+gpi2 3
+gpi2 4
+gpi2 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+gpi2 4
+rz 4 8
+rz 4 10
+rz 4 11
+rz 4 12
+gpi2 5
+gpi2 5
+gpi 6
+gpi2 6
+rz 6 8
+rz 6 10
+rz 6 12
+gpi2 6
+rz 6 5
+rz 6 8
+rz 6 10
+rz 6 12
+gpi2 7
+rz 7 5
+rz 7 9
+gpi2 7
+rz 7 5
+rz 7 9
+rz 7 10
+rz 7 11
+rz 7 12
+gpi2 7
+ms 7 6
+gpi2 6
+rz 6 8
+rz 6 9
+rz 6 11
+rz 6 12
+gpi2 6
+gpi2 7
+gpi2 7
+gpi2 7
+rz 7 8
+rz 7 9
+rz 7 11
+rz 7 12
+gpi2 7
+ms 6 7
+gpi2 6
+gpi2 6
+gpi2 7
+gpi2 7
+rz 7 8
+rz 7 9
+rz 7 11
+rz 7 12
+gpi2 7
+gpi2 7
+ms 7 6
+gpi2 6
+gpi2 6
+ms 6 5
+gpi2 5
+rz 5 8
+rz 5 9
+rz 5 11
+rz 5 12
+gpi2 5
+gpi2 6
+gpi2 6
+gpi2 6
+rz 6 8
+rz 6 9
+rz 6 11
+rz 6 12
+gpi2 6
+ms 5 6
+gpi2 5
+gpi2 5
+gpi2 6
+gpi2 6
+rz 6 8
+rz 6 9
+rz 6 11
+rz 6 12
+gpi2 6
+gpi2 6
+ms 6 5
+gpi2 5
+gpi2 5
+rz 5 7
+rz 5 8
+rz 5 11
+gpi2 5
+rz 5 5
+rz 5 8
+rz 5 11
+rz 5 12
+gpi2 5
+ms 5 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+rz 4 12
+gpi2 4
+gpi2 5
+gpi2 5
+gpi2 5
+rz 5 8
+rz 5 9
+rz 5 11
+rz 5 12
+gpi2 5
+ms 4 5
+gpi2 4
+gpi2 4
+gpi2 5
+gpi2 5
+rz 5 8
+rz 5 9
+rz 5 11
+rz 5 12
+gpi2 5
+gpi2 5
+ms 5 4
+gpi2 4
+gpi2 4
+ms 4 3
+gpi2 3
+rz 3 8
+rz 3 9
+rz 3 11
+rz 3 12
+gpi2 3
+gpi2 4
+gpi2 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+rz 4 12
+gpi2 4
+ms 3 4
+gpi2 3
+gpi2 3
+gpi2 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+rz 4 12
+gpi2 4
+gpi2 4
+ms 4 3
+gpi2 3
+gpi2 3
+rz 3 9
+rz 3 10
+rz 3 11
+rz 3 12
+gpi2 3
+rz 3 9
+rz 3 11
+gpi2 3
+ms 3 2
+gpi2 2
+rz 2 8
+rz 2 9
+rz 2 11
+rz 2 12
+gpi2 2
+gpi2 3
+gpi2 3
+gpi2 3
+rz 3 8
+rz 3 9
+rz 3 11
+rz 3 12
+gpi2 3
+ms 2 3
+gpi2 2
+gpi2 2
+gpi2 3
+gpi2 3
+rz 3 8
+rz 3 9
+rz 3 11
+rz 3 12
+gpi2 3
+gpi2 3
+ms 3 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+rz 1 8
+rz 1 9
+rz 1 11
+rz 1 12
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+rz 2 8
+rz 2 9
+rz 2 11
+rz 2 12
+gpi2 2
+ms 1 2
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+rz 2 8
+rz 2 9
+rz 2 11
+rz 2 12
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 3
+gpi2 3
+gpi2 4
+gpi2 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+gpi2 4
+rz 4 8
+rz 4 10
+rz 4 11
+rz 4 12
+gpi2 5
+gpi2 5
+gpi2 6
+gpi2 6
+gpi2 6
+rz 6 8
+rz 6 10
+rz 6 12
+gpi2 6
+rz 6 5
+rz 6 8
+rz 6 10
+rz 6 12
+gpi2 7
+gpi2 7
+gpi2 7
+rz 7 5
+rz 7 9
+gpi2 7
+rz 7 5
+rz 7 9
+rz 7 10
+rz 7 11
+rz 7 12
+gpi2 7
+ms 7 6
+gpi2 6
+rz 6 8
+rz 6 9
+rz 6 11
+rz 6 12
+gpi2 6
+gpi2 7
+gpi2 7
+gpi2 7
+rz 7 8
+rz 7 9
+rz 7 11
+rz 7 12
+gpi2 7
+ms 6 7
+gpi2 6
+gpi2 6
+gpi2 7
+gpi2 7
+rz 7 8
+rz 7 9
+rz 7 11
+rz 7 12
+gpi2 7
+gpi2 7
+ms 7 6
+gpi2 6
+gpi2 6
+ms 6 5
+gpi2 5
+rz 5 8
+rz 5 9
+rz 5 11
+rz 5 12
+gpi2 5
+gpi2 6
+gpi2 6
+gpi2 6
+rz 6 8
+rz 6 9
+rz 6 11
+rz 6 12
+gpi2 6
+ms 5 6
+gpi2 5
+gpi2 5
+gpi2 6
+gpi2 6
+rz 6 8
+rz 6 9
+rz 6 11
+rz 6 12
+gpi2 6
+gpi2 6
+ms 6 5
+gpi2 5
+gpi2 5
+rz 5 7
+rz 5 8
+rz 5 11
+gpi2 5
+rz 5 5
+rz 5 8
+rz 5 11
+rz 5 12
+gpi2 5
+ms 5 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+rz 4 12
+gpi2 4
+gpi2 5
+gpi2 5
+gpi2 5
+rz 5 8
+rz 5 9
+rz 5 11
+rz 5 12
+gpi2 5
+ms 4 5
+gpi2 4
+gpi2 4
+gpi2 5
+gpi2 5
+rz 5 8
+rz 5 9
+rz 5 11
+rz 5 12
+gpi2 5
+gpi2 5
+ms 5 4
+gpi2 4
+gpi2 4
+ms 4 3
+gpi2 3
+rz 3 8
+rz 3 9
+rz 3 11
+rz 3 12
+gpi2 3
+gpi2 4
+gpi2 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+rz 4 12
+gpi2 4
+ms 3 4
+gpi2 3
+gpi2 3
+gpi2 4
+gpi2 4
+rz 4 8
+rz 4 9
+rz 4 11
+rz 4 12
+gpi2 4
+gpi2 4
+ms 4 3
+gpi2 3
+gpi2 4
+gpi2 4
+gpi2 5
+gpi2 5
+gpi2 6
+gpi2 6
+gpi2 6
+rz 6 8
+rz 6 10
+rz 6 12
+gpi2 6
+rz 6 5
+rz 6 8
+rz 6 10
+rz 6 12
+gpi2 7
+gpi2 7
+gpi2 7
+rz 7 5
+rz 7 9
+gpi2 7
+rz 7 5
+rz 7 9
+rz 7 10
+rz 7 11
+rz 7 12
+gpi2 7
+ms 7 6
+gpi2 6
+rz 6 8
+rz 6 9
+rz 6 11
+rz 6 12
+gpi2 6
+gpi2 7
+gpi2 7
+gpi2 7
+rz 7 8
+rz 7 9
+rz 7 11
+rz 7 12
+gpi2 7
+ms 6 7
+gpi2 6
+gpi2 6
+gpi2 7
+gpi2 7
+rz 7 8
+rz 7 9
+rz 7 11
+rz 7 12
+gpi2 7
+gpi2 7
+ms 7 6
+gpi2 6
+gpi2 6
+ms 6 5
+gpi2 5
+rz 5 8
+rz 5 9
+rz 5 11
+rz 5 12
+gpi2 5
+gpi2 6
+gpi2 6
+gpi2 6
+rz 6 8
+rz 6 9
+rz 6 11
+rz 6 12
+gpi2 6
+ms 5 6
+gpi2 5
+gpi2 5
+gpi2 6
+gpi2 6
+rz 6 8
+rz 6 9
+rz 6 11
+rz 6 12
+gpi2 6
+gpi2 6
+ms 6 5
+gpi2 5
+gpi2 6
+gpi2 6
+gpi2 7
+gpi2 7

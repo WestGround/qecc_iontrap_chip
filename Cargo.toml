@@ -1,0 +1,12 @@
+[package]
+name = "qecc"
+version = "0.1.0"
+edition = "2021"
+default-run = "qecc"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+log = "0.4.22"
+rand = "0.9.0-alpha.2"
+rayon = "1.6"

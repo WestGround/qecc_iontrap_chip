@@ -1,0 +1,11450 @@
+8 1
+gpi2 0
+gpi2 0
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+gpi2 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+gpi2 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 7
+gpi2 7
+gpi2 7
+gpi2 1
+ms 7 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 0
+gpi2 0
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 0
+gpi2 0
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 7
+gpi2 7
+gpi2 7
+gpi2 1
+ms 7 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 0
+gpi2 0
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 7
+gpi2 7
+gpi2 7
+gpi2 1
+ms 7 1
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 0
+gpi2 0
+gpi2 7
+gpi2 7
+gpi2 7
+ms 7 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+gpi2 1
+ms 6 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+gpi2 1
+ms 6 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+gpi2 1
+ms 6 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+gpi2 1
+ms 6 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+gpi2 1
+ms 6 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+gpi2 1
+ms 6 1
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 6
+gpi2 6
+gpi2 6
+ms 6 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 1
+ms 5 1
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 5
+gpi2 5
+gpi2 5
+ms 5 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 1
+ms 4 1
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 4
+gpi2 4
+gpi2 4
+ms 4 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 1
+ms 3 1
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 3
+gpi2 3
+gpi2 3
+ms 3 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 0
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 1
+gpi2 1
+ms 0 1
+gpi2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 1
+ms 2 1
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+gpi2 2
+gpi2 2
+gpi2 2
+ms 2 0
+gpi2 0
+rz 0
+gpi2 1
+gpi2 1
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 3
+gpi2 3
+ms 2 3
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 3
+ms 2 3
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 4
+gpi2 4
+ms 2 4
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 4
+ms 2 4
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 5
+gpi2 5
+ms 2 5
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 5
+ms 2 5
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 6
+gpi2 6
+ms 2 6
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 6
+ms 2 6
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 7
+gpi2 7
+ms 2 7
+gpi2 2
+gpi2 2
+gpi2 2
+gpi2 7
+ms 2 7
+gpi2 2
+gpi2 2
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 4
+ms 3 4
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 4
+ms 3 4
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 5
+ms 3 5
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 5
+ms 3 5
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 6
+ms 3 6
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 6
+ms 3 6
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 7
+ms 3 7
+gpi2 3
+gpi2 3
+gpi2 3
+gpi2 7
+ms 3 7
+gpi2 3
+gpi2 3
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 5
+ms 4 5
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 5
+ms 4 5
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 6
+ms 4 6
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 6
+ms 4 6
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 7
+ms 4 7
+gpi2 4
+gpi2 4
+gpi2 4
+gpi2 7
+ms 4 7
+gpi2 4
+gpi2 4
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 6
+ms 5 6
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 6
+ms 5 6
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 7
+ms 5 7
+gpi2 5
+gpi2 5
+gpi2 5
+gpi2 7
+ms 5 7
+gpi2 5
+gpi2 5
+rz 5
+gpi2 6
+gpi2 6
+gpi2 6
+gpi2 7
+ms 6 7
+gpi2 6
+gpi2 6
+gpi2 6
+gpi2 7
+ms 6 7
+gpi2 6
+gpi2 6
+rz 6
+gpi2 7
+gpi2 7
+rz 7
