@@ -1,4 +1,4 @@
-# Code for [Title]
+# Code for Ion-Trap Chip Architecture Optimized for Implementation of Quantum Error-Correcting Code
 
 This repository contains a Rust implementation of a noisy quantum circuit simulator. It is designed to support circuit optimization, scheduling, and simulation.
 
